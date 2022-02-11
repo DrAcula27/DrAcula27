@@ -4,16 +4,16 @@
 
 ### Hi there 👋
 
-Thanks for taking the time to check my profile out!
-Here is a real quick summary about me:
+<strong>I'm Danielle</strong>
 
-- 🔭 I’m currently working on changing career paths
-- 🌱 I’m currently learning full stack web dev, system administration, cloud computing
-- 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with changing career paths from Mechanical Engineering to Web Development
-- 💬 Ask me about anything
-- 😄 Pronouns: she/her
-- ⚡ Fun facts: I enjoy Smart Home Automation, 3D Printing, Mechanical Engineering (my original career path), Reading Sci-Fi/Fantasy Novels (Terry Pratchett is one of my favorite authors), Video Games, Backpacking/Camping, and, last but not least, Food (specifically cooking and eating amazing meals)
-- 📫 How to reach me: danielle@kendallspace.net
+...and I am a Full-Stack Web Developer specializing in JavaScript and related technologies. While I am currently focused on learning all things web development, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include: 
+<ul>
+  <li>Smart Home Automation</li>
+  <li>3D Printing</li>
+  <li>Mechanical Engineering</li>
+ </ul>
 
-Feel free to reach out if you want to chat!
+I also have other "normal people" hobbies too, like:
+reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors), playing video games, backpacking/camping, and, last but not least, cooking!
+
+📫 danielle@kendallspace.net
