@@ -27,10 +27,4 @@ I also have other hobbies too:
 ## Languages and Tools
 <img alt="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
 
-<img alt="NodeJS" src="./images/nodeJS.png" height="50px" align="left">
-
-<img alt="ExpressJS" src="./images/ExpressJS.png" height="50px" align="left">
-
-<img alt="ReactJS" src="./images/React.png" height="50px" align="left">
-
-<img alt="MongoDB" src="./images/mongoDB.png" height="50px" align="left">
+<img alt="MERN" src="./images/MERN-stack.png" height="50px" align="left">
