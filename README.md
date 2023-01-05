@@ -25,16 +25,16 @@ I also have other hobbies too:
 <br />
 
 ## Languages and Tools
-<img alt="HTML5" src="./images/HTML5.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="HTML5" src="./images/HTML5.png" height="50px" align="left">
 
-<img alt="CSS3" src="./images/CSS3.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="CSS3" src="./images/CSS3.png" height="50px" align="left">
 
-<img alt="JavaScript" src="./images/JS.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="JavaScript" src="./images/JS.png" height="50px" align="left">
 
-<img alt="NodeJS" src="./images/nodeJS.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="NodeJS" src="./images/nodeJS.png" height="50px" align="left">
 
-<img alt="ExpressJS" src="./images/ExpressJS.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="ExpressJS" src="./images/ExpressJS.png" height="50px" align="left">
 
-<img alt="ReactJS" src="./images/React.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="ReactJS" src="./images/React.png" height="50px" align="left">
 
-<img alt="MongoDB" src="./images/mongoDB.png" style="max-width: 100%;" width="46px" align="left">
+<img alt="MongoDB" src="./images/mongoDB.png" height="50px" align="left">
