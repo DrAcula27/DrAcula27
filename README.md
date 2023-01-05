@@ -25,11 +25,7 @@ I also have other hobbies too:
 <br />
 
 ## Languages and Tools
-<img alt="HTML5" src="./images/HTML5.png" height="50px" align="left">
-
-<img alt="CSS3" src="./images/CSS3.png" height="50px" align="left">
-
-<img alt="JavaScript" src="./images/JS.png" height="50px" align="left">
+<img alt="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
 
 <img alt="NodeJS" src="./images/nodeJS.png" height="50px" align="left">
 
