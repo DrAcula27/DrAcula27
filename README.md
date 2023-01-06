@@ -4,14 +4,21 @@
 
 # Hello there! 👋
 
+<div id="banner align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="250" />
+</div>
+
 ## I'm Danielle
 
-...and I am a Full-Stack Web Developer specializing in JavaScript and related technologies. While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
-- Smart Home Automation
-- 3D Printing
-- Mechanical Engineering
+:woman_technologist: I am currently completing a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies.
+
+While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
+- Smart Home Tech (Pi-Hole)
+- Home Automation (Home Assistant)
+- 3D Printing - including designing the thing to print, not just finding it online!
 
 I also have other hobbies too:
+- helping others troubleshoot their code
 - playing with and training my dog
 - reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors)
 - playing and modding video games
@@ -19,12 +26,8 @@ I also have other hobbies too:
 - cooking
 
 ## Where else can you find me?
-<a target="_blank" href="https://www.linkedin.com/in/daniellerandrews">
-  <img alt="Danielle's LinkedIn" title="Danielle's LinkedIn Profile" src="./images/linkedIn.png" style="max-width: 100%;" width="36px" align="left">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Danielle_Andrews-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/daniellerandrews)
 
-<br />
-<br />
 
 ## Languages and Tools
 <img alt="HTML5, CSS3, JavaScript" title="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
