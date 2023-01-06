@@ -27,14 +27,14 @@ I also have other hobbies too:
 <br />
 
 ## Languages and Tools
-<img alt="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
+<img alt="HTML5, CSS3, JavaScript" title="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
 
-<img alt="NodeJS" src="./images/nodeJS.png" height="50px" align="left">
+<img alt="NodeJS" title="Node.js" src="./images/nodeJS.png" height="50px" align="left">
 
-<img alt="ExpressJS" src="./images/ExpressJS.png" height="50px" align="left">
+<img alt="ExpressJS" title="Express.js" src="./images/ExpressJS.png" height="50px" align="left">
 
-<img alt="ReactJS" src="./images/React.png" height="50px" align="left">
+<img alt="ReactJS" title="React.js" src="./images/React.png" height="50px" align="left">
 
-<img alt="MongoDB" src="./images/mongoDB.png" height="50px" align="left">
+<img alt="MongoDB" title="mongoDB" src="./images/mongoDB.png" height="50px" align="left">
 
-<img alt="Markdown" src="./images/markdown.png" height="50px" align="left">
+<img alt="Markdown" title="markdown" src="./images/markdown.png" height="50px" align="left">
