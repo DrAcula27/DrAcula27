@@ -36,3 +36,5 @@ I also have other hobbies too:
 <img alt="ReactJS" src="./images/React.png" height="50px" align="left">
 
 <img alt="MongoDB" src="./images/mongoDB.png" height="50px" align="left">
+
+<img alt="Markdown" src="./images/markdown.png" height="50px" align="left">
