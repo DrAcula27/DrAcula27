@@ -10,7 +10,7 @@
 
 ## I'm Danielle
 
-:woman_technologist: I am currently completing a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies.
+I am currently completing a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies.
 
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
 - Smart Home Tech (Pi-Hole)
