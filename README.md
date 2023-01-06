@@ -20,8 +20,9 @@ I also have other hobbies too:
 
 ## Where else can you find me?
 <a target="_blank" href="https://www.linkedin.com/in/daniellerandrews">
-<img alt="Danielle's LinkedIn" src="./images/linkedIn.png" style="max-width: 100%;" width="36px" align="left">
+  <img alt="Danielle's LinkedIn" src="./images/linkedIn.png" style="max-width: 100%;" width="36px" align="left">
 </a>
+
 <br />
 
 ## Languages and Tools
@@ -35,3 +36,7 @@ I also have other hobbies too:
 <img alt="ReactJS" src="./images/React.png" height="50px" align="left">
 
 <img alt="MongoDB" src="./images/mongoDB.png" height="50px" align="left">
+
+img {
+  height: 50px;
+}
