@@ -28,16 +28,35 @@ I also have other hobbies too:
 ## Where else can you find me?
 [![Linkedin Badge](https://img.shields.io/badge/-Danielle_Andrews-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/daniellerandrews)
 
-
 ## Languages and Tools
-<img alt="HTML5, CSS3, JavaScript" title="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="left">
+<a href="">
+    <img alt="HTML5, CSS3, JavaScript" title="HTML5, CSS3, JavaScript" src="./images/html-css-js.png" height="50px" align="center">
+</a>
+<a href="">
+    <img alt="NodeJS" title="Node.js" src="./images/nodeJS.png" height="50px" align="center">
+</a>
+<a href="">
+    <img alt="ExpressJS" title="Express.js" src="./images/ExpressJS.png" height="50px" align="center">
+</a>
+<a href="">
+    <img alt="ReactJS" title="React.js" src="./images/React.png" height="50px" align="center">
+</a>
+<a href="">
+    <img alt="MongoDB" title="mongoDB" src="./images/mongoDB.png" height="50px" align="center">
+</a>
+<a href="">
+    <img alt="Markdown" title="markdown" src="./images/markdown.png" height="50px" align="center">
+</a>
+<br />
 
-<img alt="NodeJS" title="Node.js" src="./images/nodeJS.png" height="50px" align="left">
+## GitHub Stats
+<a href="">
+    <img alt="Danielle's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=DrAcula27&show_icons=true&theme=dracula" />
+</a>
 
-<img alt="ExpressJS" title="Express.js" src="./images/ExpressJS.png" height="50px" align="left">
+<a href="">
+    <img alt="Danielle's Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&layout=compact&theme=dracula" />
+</a>
 
-<img alt="ReactJS" title="React.js" src="./images/React.png" height="50px" align="left">
-
-<img alt="MongoDB" title="mongoDB" src="./images/mongoDB.png" height="50px" align="left">
-
-<img alt="Markdown" title="markdown" src="./images/markdown.png" height="50px" align="left">
+***
+Stats are courtesy of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
