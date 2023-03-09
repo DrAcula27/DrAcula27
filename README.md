@@ -4,10 +4,6 @@
 
 # Hello there! 👋
 
-<div id="banner align="center">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="250" />
-</div>
-
 ## I'm Danielle
 
 I am currently completing a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies (the MERN stack).
