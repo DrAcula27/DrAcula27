@@ -6,7 +6,7 @@
 
 ## I'm Danielle
 
-I am currently completing a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies (the MERN stack).
+I just finished a software engineering fellowship with Per Scholas focusing on responsive, full-stack web applications, specializing in JavaScript and related technologies (the MERN stack).
 
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
 - Smart Home Tech (Pi-Hole)
@@ -20,9 +20,6 @@ I also have other hobbies too:
 - playing and modding video games
 - backpacking/camping
 - cooking
-
-## Where else can you find me?
-[![Linkedin Badge](https://img.shields.io/badge/-Danielle_Andrews-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/daniellerandrews)
 
 ## Languages and Tools
 <a href="">
