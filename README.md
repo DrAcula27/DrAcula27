@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate full-stack web developer.
 
-While I am mostly self-taught, I also graduated from Per Scholas, a full-stack software engineering boot camp, as class valedictorian.
+After switching careers from Mechanical Engineering, I started learning to code.
 
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole
