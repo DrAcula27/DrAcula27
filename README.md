@@ -14,6 +14,7 @@ Some other fun facts about me are...
 *   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  Other hobbies:
     - 💻helping others troubleshoot their code
+    - <img src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" width="16" height="16" alt="CodeWars" /> CodeWars
     - 🐕playing with and training my dog
     - 📖reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors)
     - 🎮playing and modding video games
@@ -98,7 +99,7 @@ Some other fun facts about me are...
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DrAcula27&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌐 Contact Me:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellerandrews) 
 
 ### ✍️ Quote of the Day:
