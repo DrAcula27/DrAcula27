@@ -19,7 +19,8 @@ Some other fun facts about me are...
     - 🎮playing and modding video games
     - 🥾backpacking
     - 👩‍🍳cooking
-    - <img src="./images/vermicompost_icon.png" width="16" height="16" alt="vermicompost" /> [vermicomposting](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
+    - 🌿gardening
+    - <img src="./vermicompost_icon.png" width="16" height="16" alt="vermicompost" /> [vermicomposting](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
