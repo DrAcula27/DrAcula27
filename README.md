@@ -13,13 +13,13 @@ Some other fun facts about me are...
 *   🧠  I'm learning React and React Native
 *   🤝  I'm open to collaborating on Open Source Projects
 *   ⚡  Other hobbies:
-    - 💻helping others troubleshoot their code
     - <img src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" width="16" height="16" alt="CodeWars" /> CodeWars
     - 🐕playing with and training my dog
     - 📖reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors)
     - 🎮playing and modding video games
-    - 🥾backpacking/camping
+    - 🥾backpacking
     - 👩‍🍳cooking
+    - [vermicomposting](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
