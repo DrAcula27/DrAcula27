@@ -18,9 +18,9 @@ Some other fun facts about me are...
     - 📖reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors)
     - 🎮playing and modding video games
     - 🥾backpacking
+    - 🌿gardening, more specifically studying and implementing [permaculture](https://www.permaculturenews.org/what-is-permaculture/) at home
+    - <img src="./vermicompost_icon.png" width="16" height="16" alt="vermicompost" /> learning how to [vermicompost](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
     - 👩‍🍳cooking
-    - 🌿gardening
-    - <img src="./vermicompost_icon.png" width="16" height="16" alt="vermicompost" /> [vermicomposting](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
