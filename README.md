@@ -1,32 +1,24 @@
-# 💫 About Me:
-I am a passionate full-stack web developer.
+# Hello there! My name is Danielle Andrews
 
-After switching careers from Mechanical Engineering, I started learning to code.
+## Full Stack Web Developer, Engineer, and SmartHome Enthusiast
+
+- 🌍  I'm based in Washington, USA
+- 🖥️  See my portfolio at .netlify.app
+- ✉️  You can contact me at daniellerosekendall@gmail.com
+- 🚀  I'm currently working on **The Bridge Workforce**
+- 🧠  I'm learning _React_ and _React Native_
+- 🤝  I'm open to collaborating on open-source projects
 
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
-- 🍓 Smart Home Tech: Pi-Hole
+- 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
 - 🏡 Home Automation via Home Assistant
-- 🖨️ 3D Printing - including designing the thing to print, not just finding it online!
-
-Some other fun facts about me are...
-*   🌍  I'm based in Washington
-*   🧠  I'm learning React and React Native
-*   🤝  I'm open to collaborating on Open Source Projects
-*   ⚡  Other hobbies:
-    - <img src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" width="16" height="16" alt="CodeWars" /> CodeWars
-    - 🐕playing with and training my dog
-    - 📖reading sci-fi/fantasy novels (Terry Pratchett is one of my favorite authors)
-    - 🎮playing and modding video games
-    - 🥾backpacking
-    - 🌿gardening, more specifically studying and implementing [permaculture](https://www.permaculturenews.org/what-is-permaculture/) at home
-    - <img src="./vermicompost_icon.png" width="16" height="16" alt="vermicompost" /> learning how to [vermicompost](https://composting.ces.ncsu.edu/vermicomposting-2/#:~:text=Vermicomposting%20is%20a%20process%20that,and%20source%20of%20plant%20nutrients.)
-    - 👩‍🍳cooking
+- 🖨️ 3D Printing - including designing the thing to print, not just finding the files online!
 
 <!---
 [![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
 -->
 
-# 💻 Tech Stack:
+## Skills:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -87,7 +79,12 @@ Some other fun facts about me are...
 <!-- ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) -->
 
-# 📊 GitHub Stats:
+## Socials:
+<a href="https://www.linkedin.com/in/daniellerandrews" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+<a href="https://www.github.com/DrAcula27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://www.twitter.com/danielle_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -97,16 +94,12 @@ Some other fun facts about me are...
 ![](https://github-contributor-stats.vercel.app/api?username=DrAcula27&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 -->
 
+<!--
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=DrAcula27&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+-->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniellerandrews) 
-
-### ✍️ Quote of the Day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## ☕ Like what you see? Buy me a coffee!
+## ☕ Support Me
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DanielleAndrews27) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
