@@ -3,7 +3,7 @@
 ## Full Stack Web Developer, Engineer, and SmartHome Enthusiast
 
 - 🌍  I'm based in Washington, USA
-- 🖥️  See my portfolio at .netlify.app
+- 🖥️  See my portfolio at https://danielle-andrews.netlify.app/
 - ✉️  You can contact me at daniellerosekendall@gmail.com
 - 🚀  I'm currently working on **The Bridge Workforce**
 - 🧠  I'm learning _React_ and _React Native_
