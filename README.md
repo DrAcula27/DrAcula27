@@ -1,6 +1,21 @@
-# Hello there! My name is Danielle Andrews
+<img src="./socialBanner.png" width="100%">
 
-## Full Stack Web Developer, Engineer, and SmartHome Enthusiast
+# Full Stack Web Developer, Engineer, and USMC Veteran
+
+<p align="center">
+  <a href="https://danielle-andrews.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniellerandrews/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/DrAcula_codes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+ <a href="https://docs.google.com/document/d/1ryPuYTND-wJXY-NuJKB6va6pvMPSzcb8xnhOs88SUUQ/edit?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 - 🌍  I'm based in Washington, USA
 - 🖥️  See my portfolio at https://danielle-andrews.netlify.app/
@@ -14,11 +29,11 @@ While I am currently focused on learning all things software engineering, I also
 - 🏡 Home Automation via Home Assistant
 - 🖨️ 3D Printing - including designing the thing to print, not just finding the files online!
 
-<!---
+<!--
 [![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
 -->
 
-## Skills:
+<h2 align="center">Technologies</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -79,15 +94,13 @@ While I am currently focused on learning all things software engineering, I also
 <!-- ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) -->
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) -->
 
-## Socials:
-<a href="https://www.linkedin.com/in/daniellerandrews" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-<a href="https://www.github.com/DrAcula27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.twitter.com/danielle_codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter" /></a>
+<h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'></h2>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <!-- 
 ### 🔝 Top Contributed Repos
