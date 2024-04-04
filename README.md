@@ -19,7 +19,7 @@
 
 - 🌍  I'm based in Washington, USA
 - 🖥️  See my portfolio at https://danielle-andrews.netlify.app/
-- ✉️  You can contact me at daniellerosekendall@gmail.com
+- ✉️  You can contact me at danielle.andrews.dev@icloud.com
 - 🚀  I'm currently working on **The Bridge Workforce**
 - 🧠  I'm learning _React_ and _React Native_
 - 🤝  I'm open to collaborating on open-source projects
