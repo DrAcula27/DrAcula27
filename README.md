@@ -12,7 +12,7 @@
   <a href="https://twitter.com/DrAcula_codes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
- <a href="https://docs.google.com/document/d/1ryPuYTND-wJXY-NuJKB6va6pvMPSzcb8xnhOs88SUUQ/edit?usp=sharing" target="_blank">
+ <a href="https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
