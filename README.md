@@ -20,7 +20,7 @@
 - 🌍  I'm based in Washington, USA
 - 🖥️  See my portfolio at https://danielle-andrews.netlify.app/
 - ✉️  You can contact me at danielle.andrews.dev@icloud.com
-- 🚀  I'm currently working on [The Bridge Workforce](https://the-bridge-workforce.vercel.app) and contributing to [HackforLA](https://www.hackforla.org)
+- 🚀  I'm currently working on [The Bridge Workforce](https://the-bridge-workforce-two.vercel.app) and contributing to [HackforLA](https://www.hackforla.org)
 - 🧠  I'm learning _React_ and _React Native_
 - 🤝  I'm open to collaborating on open-source projects
 
