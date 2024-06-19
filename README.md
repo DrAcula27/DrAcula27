@@ -63,7 +63,6 @@ While I am currently focused on learning all things software engineering, I also
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-<!-- ![Java](https://img.shields.io/badge/java-e11f21?style=flat&logo=java&logoColor=white) -->
 ![Python](https://img.shields.io/badge/python-facd41?style=flat&logo=python)
 ![C](https://img.shields.io/badge/programming_language-a9bacd?style=flat&logo=c&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
@@ -99,6 +98,7 @@ While I am currently focused on learning all things software engineering, I also
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-e11f21?style=flat&logo=oracle&logoColor=white) -->
 
 <h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'></h2>
 
