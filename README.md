@@ -1,3 +1,5 @@
+<!-- Documentation for GitHub shields: https://shields.io/badges -->
+
 <img src="./socialBanner.png" width="100%">
 
 # Full Stack Web Developer, Engineer, and USMC Veteran
