@@ -4,25 +4,26 @@
 
 <p align="center">
   <a href="https://danielle-andrews.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e27689&style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8ebebc&style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/daniellerandrews/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/DrAcula_codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
- <a href="https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=000000&style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
-- 🌍  I'm based in Washington, USA
+- 🌍  Based in the United States
 - 🖥️  See my portfolio at https://danielle-andrews.netlify.app/
 - ✉️  You can contact me at danielle.andrews.dev@icloud.com
-- 🚀  I'm currently working on [The Bridge Workforce](https://the-bridge-workforce-two.vercel.app) and contributing to [HackforLA](https://www.hackforla.org)
-- 🧠  I'm learning _React_ and _React Native_
-- 🤝  I'm open to collaborating on open-source projects
+- 🚀  Working on [The Bridge Workforce](https://the-bridge-workforce-two.vercel.app)
+- 🟥  Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
+- 🧠  Learning _MERN_ development
+- 🤝  Open to collaborating on open-source projects
 
 While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
