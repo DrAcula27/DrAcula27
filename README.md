@@ -1,13 +1,12 @@
 <!-- Documentation for GitHub shields: https://shields.io/badges -->
-
-<img src="./socialBanner.png" width="100%">
+<!-- Documentation for icons used for shields.io: https://simpleicons.org/ -->
 
 # Full Stack Web Developer, Software Engineer, and USMC Veteran
 
 <p align="center">
-  <a href="https://danielle-andrews.netlify.app/" target="_blank">
+<!-- TODO: UPDATE PROFILE SITE   <a href="https://danielle-andrews.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e27689&style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8ebebc&style=for-the-badge&logo=googledocs&logoColor=white"/>
   </a>
@@ -20,21 +19,14 @@
 </p>
 
 - 🌍  Based in the United States
-- 🖥️  Check out my [portfolio](https://danielle-andrews.netlify.app/)
-- ✉️  You can contact me at danielle.andrews.dev@icloud.com
-- 🚀  Current client: [Tahuya River Valley Water District](https://tahuyarivervalleywaterdistrict.netlify.app)
 - 🟥  Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
 - 🧠  Pursuing my [OCI Generative AI Professional Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7EE87A1D19E747E0DC1E994264FA5C868E39F63E12049D30A68DB73B1BAF1F2)
 - 🤝  Open to collaborating on open-source projects
 
-While I am currently focused on learning all things software engineering, I also enjoy picking up and using other tech to solve problems. Some of those hobbies include:
+Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
 - 🏡 Home Automation via Home Assistant
 - 🖨️ 3D Printing - including designing the thing to print, not just finding the files online!
-
-<!--
-[![](https://visitcount.itsvg.in/api?id=DrAcula27&icon=5&color=5)](https://visitcount.itsvg.in)
--->
 
 <h2 align="center">Technologies</h2>
 <h3>Languages</h3>
@@ -46,6 +38,7 @@ While I am currently focused on learning all things software engineering, I also
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 ![C](https://img.shields.io/badge/C-323330?style=flat&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=sql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
@@ -101,25 +94,10 @@ While I am currently focused on learning all things software engineering, I also
 ![Pi-Hole](https://img.shields.io/badge/PiHole-96060C?style=flat&logo=pi-hole&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
 
-<h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'></h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
-<!-- 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=DrAcula27&limit=5&theme=dracula&combine_all_yearly_contributions=true)
--->
-
-<!--
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=DrAcula27&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
--->
-
-## ☕ Support Me
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DanielleAndrews27) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
