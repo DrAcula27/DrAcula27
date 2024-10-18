@@ -98,6 +98,6 @@ Some of my hobbies include:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
 </p>
