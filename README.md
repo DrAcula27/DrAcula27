@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/daniellerandrews/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/DrAcula_codes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=000000&style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
 </p>
 
 - 🌍  Based in the United States
