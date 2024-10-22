@@ -3,17 +3,9 @@
 
 # Full Stack Web Developer, Software Engineer, and USMC Veteran
 
-<p align="center">
-<!-- TODO: UPDATE PROFILE SITE   <a href="https://danielle-andrews.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=e27689&style=for-the-badge&logo=html5&logoColor=white"/>
-  </a> -->
-  <a href="https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=8ebebc&style=for-the-badge&logo=googledocs&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daniellerandrews/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=0a66c2&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellerandrews)
+[![Resume](https://img.shields.io/badge/Resume-e27689?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2079c7?style=for-the-badge&logo=react&logoColor=white)](http://danielle-andrews.devdecks.com)
 
 - 🌍  Based in the United States
 - 🟥  Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
@@ -24,9 +16,11 @@ Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
 - 🏡 Home Automation via Home Assistant
 - 🖨️ 3D Printing - including designing the thing to print, not just finding the files online!
+- ⛰️ Hiking/Backpaking/Mountaineering
 
-<h2 align="center">Technologies</h2>
-<h3>Languages</h3>
+## Technologies
+
+### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -41,7 +35,7 @@ Some of my hobbies include:
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
 <!-- ![Java](https://img.shields.io/badge/java-e11f21?style=flat&logo=oracle&logoColor=white) -->
 
-<h3>Frameworks</h3>
+### Frameworks
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=61DAFB)
@@ -49,19 +43,19 @@ Some of my hobbies include:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=flat&logo=tailwind-css&logoColor=06B6D4)
 ![Bulma](https://img.shields.io/badge/Bulma-323330?style=flat&logo=bulma&logoColor=00D1B2)
 
-<h3>Libraries</h3>
+### Libraries
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
-<h3>Hosting</h3>
+### Hosting
 
 ![Render](https://img.shields.io/badge/Render-000000?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white)
 
-<h3>Frontend Tools</h3>
+### Frontend Tools
 
 ![Create React App](https://img.shields.io/badge/Create_React_App-323330?style=flat&logo=create-react-app&logoColor=09D3AC)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -71,7 +65,7 @@ Some of my hobbies include:
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat&logo=gimp&logoColor=white)
 ![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF0000?style=flat&logo=adobe&logoColor=white)
 
-<h3>Backend Tools</h3>
+### Backend Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -82,7 +76,7 @@ Some of my hobbies include:
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat&logo=nodemon&logoColor=76D04B)
 
-<h3>Other Cool Tech</h3>
+### Other Cool Tech
 
 ![VSCode](https://img.shields.io/badge/VSCode-00A4EF?style=flat&logo=vscode&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat&logo=bitwarden&logoColor=white)
@@ -90,11 +84,3 @@ Some of my hobbies include:
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-323330?style=flat&logo=home-assistant&logoColor=18BCF2)
 ![Pi-Hole](https://img.shields.io/badge/PiHole-96060C?style=flat&logo=pi-hole&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=Raspberry-Pi&logoColor=white)
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrAcula27&theme=dracula&hide_border=false" />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAcula27&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
-</p>
