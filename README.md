@@ -9,7 +9,6 @@
 
 - 🌍  Based in the United States
 - 🟥  Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
-- 🧠  Pursuing my [OCI Generative AI Professional Certificate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E7EE87A1D19E747E0DC1E994264FA5C868E39F63E12049D30A68DB73B1BAF1F2)
 - 🤝  Open to collaborating on open-source projects
 
 Some of my hobbies include:
