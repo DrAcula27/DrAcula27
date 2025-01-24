@@ -7,9 +7,10 @@
 [![Resume](https://img.shields.io/badge/Resume-e27689?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2079c7?style=for-the-badge&logo=react&logoColor=white)](http://danielle-andrews.devdecks.com)
 
-- 🌍  Based in the United States
-- 🟥  Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
-- 🤝  Open to collaborating on open-source projects
+- 🌍 Based in the United States
+- 🟥 Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
+- 🐟 Building an e-library for NOAA Fisheries
+- 🇺🇸  Migrating tech stacks for the Veteran Coaching Project
 
 Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
