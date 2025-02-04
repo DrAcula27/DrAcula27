@@ -9,8 +9,8 @@
 
 - 🌍 Based in the United States
 - 🟥 Contributing to **Hack for LA's** [website](https://www.hackforla.org) and [311data](https://hackforla.github.io/311-data/)
-- 🐟 Building an e-library for NOAA Fisheries
-- 🇺🇸  Migrating tech stacks for the Veteran Coaching Project
+- 🐟 Leading a team that is building an e-library for NOAA Fisheries
+- 🤵 Migrating tech stacks for the Veteran Coaching Project
 
 Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
@@ -22,9 +22,10 @@ Some of my hobbies include:
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![EJS](https://img.shields.io/badge/EJS-323330?style=flat&logo=ejs&logoColor=B4CA65)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 ![C](https://img.shields.io/badge/C-323330?style=flat&logo=c&logoColor=A8B9CC)
@@ -33,6 +34,7 @@ Some of my hobbies include:
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=flat&logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=r&logoColor=white)
 <!-- ![Java](https://img.shields.io/badge/java-e11f21?style=flat&logo=oracle&logoColor=white) -->
 
 ### Frameworks
@@ -42,6 +44,7 @@ Some of my hobbies include:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=flat&logo=tailwind-css&logoColor=06B6D4)
 ![Bulma](https://img.shields.io/badge/Bulma-323330?style=flat&logo=bulma&logoColor=00D1B2)
+![R-Shiny](https://img.shields.io/badge/Shiny-3674a8?style=flat&logo=r&logoColor=white)
 
 ### Libraries
 
