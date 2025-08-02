@@ -7,12 +7,11 @@
 [![Resume](https://img.shields.io/badge/Resume-e27689?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1qaXxSLIBBaljjR8LIJy-28kCwbED_zkV1UoNKB2ipjA/edit?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2079c7?style=for-the-badge&logo=react&logoColor=white)](http://danielle-andrews.devdecks.com)
 
-- 🇺🇸 Based in the United States
 - 🐟 **Architechting a database management system** for the [Hood Canal Salmon Enhancement Group](https://www.pnwsalmoncenter.org/)
 - 🐡 **Leading a team** that is building an [e-library](https://connect.fisheries.noaa.gov/salmon_stressor_response_library/) for [NOAA Fisheries NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)
 - 🟩 **Building AWS-integrated automated workflows** as a **Backend Developer** for [TeamForward Networking](https://www.tfnetworking.com/)
-- 🟥 **Improving system performance and enhancing accessibility compliance** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/)
 - 💧 **Sole Developer** for the [Tahuya River Valley Water District](https://tahuyarivervalleywaterdistrict.org) website
+- 🟥 **Improving system performance and enhancing accessibility compliance** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/)
 
 Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
@@ -28,6 +27,7 @@ Some of my hobbies include:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-323330?style=flat&logo=ejs&logoColor=B4CA65)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
@@ -75,6 +75,7 @@ Some of my hobbies include:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=aws&logoColor=252F3E)
 
 ![NodeJS](https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
