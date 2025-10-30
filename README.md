@@ -9,9 +9,8 @@
 
 - 🐟 **Architechting a database management system** for the [Hood Canal Salmon Enhancement Group](https://www.pnwsalmoncenter.org/)
 - 🐡 **Leading a team** that is building an [e-library](https://connect.fisheries.noaa.gov/salmon_stressor_response_library/) for [NOAA Fisheries NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)
-- 🟩 **Building AWS-integrated automated workflows** as a **Backend Developer** for [TeamForward Networking](https://www.tfnetworking.com/)
 - 💧 **Sole Full-Stack Developer** for the [Tahuya River Valley Water District](https://tahuyarivervalleywaterdistrict.org) website
-- 🟥 **Implempenting CI/CD workflows and enhancing accessibility** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/)
+- 🟥 **Making open-source contributions** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/)
 
 Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
@@ -48,7 +47,7 @@ Some of my hobbies include:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=flat&logo=tailwind-css&logoColor=06B6D4)
 ![Bulma](https://img.shields.io/badge/Bulma-323330?style=flat&logo=bulma&logoColor=00D1B2)
-![R-Shiny](https://img.shields.io/badge/Shiny-3674a8?style=flat&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-3674a8?style=flat&logo=r&logoColor=white)
 
 ### Libraries
 
