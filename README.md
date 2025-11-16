@@ -10,7 +10,7 @@
 - 🐟 **Architechting a database management system** for the [Hood Canal Salmon Enhancement Group](https://www.pnwsalmoncenter.org/)
 - 🐡 **Leading a team** that is building an [e-library](https://connect.fisheries.noaa.gov/salmon_stressor_response_library/) for [NOAA Fisheries NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)
 - 💧 **Sole Full-Stack Developer** for the [Tahuya River Valley Water District](https://tahuyarivervalleywaterdistrict.org) website
-- 🟥 **Making open-source contributions** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/)
+<!-- - 🟥 **Making open-source contributions** as a **Frontend Developer** on the [311data](https://hackforla.github.io/311-data/) team at [Hack for LA](https://www.hackforla.org/) -->
 
 Some of my hobbies include:
 - 🍓 Smart Home Tech: Pi-Hole, interested in networking and security
