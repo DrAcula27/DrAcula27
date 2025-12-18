@@ -4,7 +4,6 @@
 # Full Stack Web Developer, Software Engineer, and USMC Veteran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellerandrews)
-[![Resume](https://img.shields.io/badge/Resume-e27689?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1clKNGePKf7CXsbYB3Du7oQpiQomIruM-_Vih2CWNI8I/edit?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2079c7?style=for-the-badge&logo=react&logoColor=white)](http://danielle-andrews.devdecks.com)
 
 - 🐟 **Architechting a database management system** for the [Hood Canal Salmon Enhancement Group](https://www.pnwsalmoncenter.org/)
