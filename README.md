@@ -1,7 +1,7 @@
 # Full Stack Web Developer, Software Engineer, and USMC Veteran
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniellerandrews)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2079c7?style=for-the-badge&logo=react&logoColor=white)](http://danielle-andrews.devdecks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/daniellerandrews)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f377be?style=for-the-badge)](http://danielle-andrews.devdecks.com)
 
 - 🐟 **Architechting a database management system** for the [Hood Canal Salmon Enhancement Group](https://www.pnwsalmoncenter.org/)
 - 🐡 **Leading a team** that is building an [e-library](https://connect.fisheries.noaa.gov/salmon_stressor_response_library/) for [NOAA Fisheries NWFSC](https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center)
